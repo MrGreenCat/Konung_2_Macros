@@ -1,4 +1,4 @@
-A few simple macros for the game Prince 2: Blood of the Titans (2004)
+A few simple macros for the game Konung 2: Blood of the Titans (2004)
 
 Written using Python 3.12.4 and the pynput library
 
